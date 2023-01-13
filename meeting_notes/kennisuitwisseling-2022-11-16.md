@@ -1,4 +1,4 @@
-# HTR Kennisuitwisseling 16 November 2022
+# HTR Kennisuitwisseling 16 november 2022
 
 De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verzamelen van kennis over verschillende aspecten van het digitaliseren, organiseren en analyseren van grote historische bronnencomplexen. E.g. HTR en OCR, documentclassificatie, layoutherkenning en het gebruik van metadata om deze processen te verbeteren.
 
@@ -9,13 +9,13 @@ Links:
 - [Overzicht van notulen](../meeting_notes)
 - [Overzicht van resources](../resources)
 
-# Kennisuitwisseling 16 november 2022
+## Bijeenkomst
 
-16 november 2022
-Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
+Datum: 16 november 2022
 Tijd: 13:00-15:00
+Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
-## Aanwezig
+**Aanwezig**
 
 - Rick Companje (Utrechts Archief)
 - Mirjam Cuper (KB)
