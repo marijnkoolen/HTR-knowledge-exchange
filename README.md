@@ -4,6 +4,6 @@ De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verza
 
 Dit document dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.
 
-- [Overzicht notulen van de bijeenkomsten](./meeting_notes/index.md)
-- [Overzicht van relevante resources](./resources/index.md)
+- [Overzicht notulen van de bijeenkomsten](./meeting_notes/)
+- [Overzicht van relevante resources](./resources/)
 

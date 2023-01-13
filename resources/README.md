@@ -1,5 +1,9 @@
 # Resources
 
+Links:
+- [Algemeen overzicht](https://github.com/marijnkoolen/HTR-knowledge-exchange)
+- [Overzicht van notulen](../meeting_notes)
+
 ## Software
 
 - OCReval: https://eddieantonio.ca/ocreval/
