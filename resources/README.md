@@ -1,15 +1,20 @@
 # Resources
 
+De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verzamelen van kennis over verschillende aspecten van het digitaliseren, organiseren en analyseren van grote historische bronnencomplexen. E.g. HTR en OCR, documentclassificatie, layoutherkenning en het gebruik van metadata om deze processen te verbeteren. 
+
+Dit document dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.
+
 Links:
 - [Algemeen overzicht](https://github.com/marijnkoolen/HTR-knowledge-exchange)
-- [Overzicht van notulen](../meeting_notes)
+- [Overzicht van notulen van de bijeenkomsten](../meeting_notes)
 
 ## Software
 
-- OCReval: https://eddieantonio.ca/ocreval/
-- PageXML tools: generieke functionaliteit (Python) voor werken met PageXML data https://github.com/knaw-huc/pagexml
-- Loghi: ...
-- Transkribus: https://readcoop.eu/transkribus/
+- [OCReval](https://eddieantonio.ca/ocreval/)
+- [PageXML tools](https://github.com/knaw-huc/pagexml) generieke functionaliteit (Python) voor werken met PageXML data
+- [FuzzySearch](https://github.com/marijnkoolen/fuzzy-search): Python module voor fuzzy zoeken van keywords en phrases
+- Loghi: software voor layout analyse, HTR en OCR
+- [Transkribus](https://readcoop.eu/transkribus/): software voor HTR en handmatige transcriptie en correctie.
 
 ## Data en Modellen
 
