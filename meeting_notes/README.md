@@ -10,3 +10,4 @@ Dit document dient als verzamelplek voor notulen van de bijeenkomsten.
 Bijeenkomsten
 - [16 november 2022](./kennisuitwisseling-2022-11-16.md)
 - [11 januari 2023](./kennisuitwisseling-2023-01-11.md)
+- [15 maart 2023](./kennisuitwisseling-2023-03-15.md)
