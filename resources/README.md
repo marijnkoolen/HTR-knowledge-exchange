@@ -10,6 +10,9 @@ Links:
 
 ## Software
 
+- [Loghi]( https://github.com/knaw-huc/loghi): HTR and layout analysis toolkit
+- [LayPa](https://github.com/stefanklut/laypa): tool for text detection - i.e. where is the text in a scan?
+- [HTR quality classifier](https://github.com/LAHTeR/htr-quality-classifier): basic layout and HTR quality classifier
 - [OCReval](https://eddieantonio.ca/ocreval/)
 - [PageXML tools](https://github.com/knaw-huc/pagexml) generieke functionaliteit (Python) voor werken met PageXML data
 - [FuzzySearch](https://github.com/marijnkoolen/fuzzy-search): Python module voor fuzzy zoeken van keywords en phrases
