@@ -12,3 +12,4 @@ Bijeenkomsten
 - [11 januari 2023](./kennisuitwisseling-2023-01-11.md)
 - [15 maart 2023](./kennisuitwisseling-2023-03-15.md)
 - [24 oktober 2023](./kennisuitwisseling-2023-10-24.md)
+- [16 januari 2024](./kennisuitwisseling-2024-01-16.md)
