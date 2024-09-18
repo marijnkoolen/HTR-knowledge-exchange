@@ -26,7 +26,7 @@ Links:
 
 ## Implementatie van LLMs
 - Nomic AI (open source, lokaal taalmodellen implementeren) https://www.nomic.ai
-- Ollama (van Meta) (https://ollama.com)
+- Ollama (van Meta) https://ollama.com
 
 ## Best Practices
 
