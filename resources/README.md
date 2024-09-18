@@ -19,10 +19,14 @@ Links:
 - Loghi: software voor layout analyse, HTR en OCR
 - [Transkribus](https://readcoop.eu/transkribus/): software voor HTR en handmatige transcriptie en correctie.
 
-## Data en Modellen
+## Data en ATR-Modellen
 
 - **HTR-United** is a catalog of metadata on training datasets (ground truth datasets) available for the creation of transcription or segmentation models. https://htr-united.github.io/
 - OCR/HTR model repository: https://zenodo.org/communities/ocr_models/
+
+## Implementatie van LLMs
+- Nomic AI (open source, lokaal taalmodellen implementeren) https://www.nomic.ai
+- Ollama (van Meta) (https://ollama.com)
 
 ## Best Practices
 
