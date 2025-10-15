@@ -6,6 +6,11 @@ De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verza
 
 Deze repository dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.
 
-- [Overzicht van notulen van de bijeenkomsten](./meeting_notes/)
-- [Overzicht van relevante resources](./resources/)
+NL:
+- [Overzicht van de bijeenkomsten](https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/)
+- [Overzicht van relevante resources](https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/)
+
+EN:
+- [Overview of meetings](https://marijnkoolen.github.io/HTR-knowledge-exchange/en/meetings/)
+- [Overview of relevant resources](https://marijnkoolen.github.io/HTR-knowledge-exchange/en/resources/)
 
