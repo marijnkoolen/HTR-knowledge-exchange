@@ -1,5 +1,5 @@
 +++
-date = '2025-10-15T13:07:34+02:00'
+date = '2025-08-15T13:07:34+02:00'
 draft = false
 title = 'Hands-On ATR Workshop - 22 Oktober 2025'
 [menus]
@@ -9,7 +9,7 @@ title = 'Hands-On ATR Workshop - 22 Oktober 2025'
 +++
 
 
-#### Bijeenkomst
+### Bijeenkomst
 
 - Datum: 22 oktober 2025
 - Tijd: 14:00-17:00

@@ -10,13 +10,13 @@ title = 'HTR Kennisuitwisseling 15 maart 2023'
 
 De derde bijeenkomst op 15 maart 2023
 
-## Bijeenkomst
+### Bijeenkomst
 
 Datum: 15 maart 2023
 Tijd: 13:00-15:00
 Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
-## Presentaties
+### Agenda
 
 - Gerhard de Kok - toepassing van PageXML tools op Notariële akten
 - Marijn Koolen - PageXML Tools en inventarisatie van taken op PageXML data
@@ -44,14 +44,14 @@ Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 - Kay Pepping
 - Gerhard de Kok
 
-## Programma
+### Programma
 
 - [PageXML tools](https://github.com/knaw-huc/pagexml)
 - gebruik van PageXML
     - Gerhard de Kok, toepassing van PageXML tools op ...
     - inventarisatie van taken op PageXML data
 
-## PageXML-Tools
+### PageXML-Tools
 
 
 Python module voor het inlezen en werken met PageXML bestanden. De [Github repository](https://github.com/knaw-huc/pagexml) bevat verschillende tutorials voor verschillende taken.
@@ -65,7 +65,7 @@ Doel is het ondersteunen van een aantal taken in het werken met HTR/OCR output:
 - **leesvolgorde bepalen**: hoe kun je verschillende leesvolgordes hanteren voor documenten?
 - **herstructuren van pagina-elementen**: hoe kun je PageXML elementen combineren to nieuwe elementen?
 
-## Inventarisatie PageXML taken
+### Inventarisatie PageXML taken
 
 - document resolution: gegeven een meter archief, detecteer de grenzen tussen individuele documenten in dit archief.
 - informatie extractie en structureren
@@ -83,11 +83,11 @@ Implementeren:
 - check element in other element (kun nu via `.is_horizontally_overlapping` en `.is_vertically_overlapping`, maar kan makkelijker gemaakt kunnen worden door een functie die deze combineert.)
 - lezen uit directory
 
-## Presentatie Gerard de Kok
+### Presentatie Gerard de Kok
 
 Gebruik PageXML tools voor detecteren van WIC opvarenden in notarieel archief.
 
-## Inventarisatie PageXML taken
+### Inventarisatie PageXML taken
 
 - document resolution: gegeven een meter archief, detecteer de grenzen tussen individuele documenten in dit archief.
 

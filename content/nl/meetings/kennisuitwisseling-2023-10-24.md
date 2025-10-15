@@ -10,13 +10,13 @@ title = 'HTR Kennisuitwisseling 24 oktober 2023'
 
 De vierde bijeenkomst op 24 okbtober 2023
 
-## Bijeenkomst
+### Bijeenkomst
 
 Datum: 24 oktober 2023
 Tijd: 11:00-13:00
 Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
-## Presentaties
+### Agenda
 
 - Rutger van Koert & Stefan Klut - Loghi
 - Carsten Schnober - HTR Quality
@@ -39,7 +39,7 @@ Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 - Rik Hoekstra
 
 
-## Presentatie Loghi (Rutger van Koert en Stefan Klut)
+### Presentatie Loghi (Rutger van Koert en Stefan Klut)
 
 - Loghi: 
     - HTR and layout analysis toolkit
@@ -72,7 +72,7 @@ Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
 
 
-## Presentatie HTR Quality (Carsten Schnober)
+### Presentatie HTR Quality (Carsten Schnober)
 
 Classifying quality of digitzed documents
 - https://github.com/LAHTeR/htr-quality-classifier
@@ -105,7 +105,7 @@ Vragen:
 - over de ground truth, waarom worden scans met annotator disagreement weggelaten? (gelaagde/getrapte benadering van annotator disagreement als alternatief voorgesteld)
 - Is het zinnig om temporele aspecten op te nemen in de ground truth? E.g. aparte ngram distributies voor begin 17de eeuw, eind 17de eeuw, etc. 
 
-## Rondvraag
+### Rondvraag
 
 - wensen voor de volgende keer: NER en entity linking/event detection
 - GLOBALISE built a transcript viewer.

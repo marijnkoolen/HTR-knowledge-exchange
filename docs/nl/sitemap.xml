@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2025-10-22/</loc>
-    <lastmod>2025-10-15T13:07:34+02:00</lastmod>
+    <lastmod>2025-08-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/HTR-knowledge-exchange/</loc>
-    <lastmod>2025-10-15T13:07:34+02:00</lastmod>
+    <lastmod>2025-08-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +21,16 @@
                 hreflang="nl"
                 href="http://localhost:1313/HTR-knowledge-exchange/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-09-17/</loc>
+    <lastmod>2024-04-10T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-04-02/</loc>
+    <lastmod>2024-04-10T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-01-16/</loc>
     <lastmod>2024-01-18T13:07:34+02:00</lastmod>

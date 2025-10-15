@@ -10,13 +10,13 @@ title = 'HTR Kennisuitwisseling 16 januari 2024'
 
 De vijfde bijeenkomst op 16 januari 2024
 
-#### Bijeenkomst
+### Bijeenkomst
 
 - Datum: 16 januari 2024
 - Tijd: 13:00-15:00
 - Locatie: Huygens Instituut, Spinhuis, Oudezijds Achterburgwal 185, Amsterdam
 
-#### Presentaties
+### Agenda
 
 - Gijs Hoekstra en Milan van Lange: Wensen en uitdagingen in het project "De Nederlandse Spoorwegen in oorlogstijd"
 - Marijn Koolen: REPUBLIC pipeline
@@ -43,7 +43,7 @@ De vijfde bijeenkomst op 16 januari 2024
 
 
 
-## Presentaties
+### Presentaties
 
 ### Gijs Hoekstra en Milan van Lange: Wensen en uitdagingen in het project "De Nederlandse Spoorwegen in oorlogstijd"
 
@@ -142,7 +142,7 @@ Opvallende uitkomst: karakter-modellen (op basis van vier karakters) doen het va
 - Met Huggingface modellen. 
 - --> Resultatentabel hier invoegen?
 
-## Discussiethema's 
+### Discussiethema's 
 
 - Informatie Extractie, NER + semantic role labelling, entity linking en event detection
     - generiek (brede toepassing) vs. specifiek (bron-georienteerd)
@@ -153,9 +153,7 @@ Opvallende uitkomst: karakter-modellen (op basis van vier karakters) doen het va
     - layout detectie en logische structuur
     - tabellen: https://www.amsterdam.nl/stadsarchief/organisatie/blog-bronnen-bytes/tekstherkenning-(5)-tabellen/?trk=feed-detail_main-feed-card_reshare_feed-article-content
 
-## Uitdagingen/wensen
-
-## Rondvraag
+### Rondvraag
 
 - Voorstel thema volgende keer: Evaluatie OCR/HTR resultaten (IvdNT)?
 - Verzamelen input voor cureren van de uitgewisselde kennis (redactie, structuur, github als kennisbank?)

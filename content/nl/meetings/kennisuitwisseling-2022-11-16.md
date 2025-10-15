@@ -11,13 +11,13 @@ title = 'HTR Kennisuitwisseling 16 november 2022'
 De eerste bijeenkomst op 16 november 2022
 
 
-## Bijeenkomst
+### Bijeenkomst
 
 Datum: 16 november 2022
 Tijd: 13:00-15:00
 Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
-## Agenda
+### Agenda
 
 - kennismaking
 - intro
@@ -26,7 +26,7 @@ Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 
 <!--more-->
 
-**Aanwezig**
+### Aanwezig
 
 - Rick Companje (Utrechts Archief)
 - Mirjam Cuper (KB)
@@ -40,7 +40,7 @@ Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam
 - Leon van Wissen (UvA)
 
 
-## Discussiepunten
+### Discussiepunten
 
 - structuur aanbrengen/toevoegen aan grote hoeveelheden scans en OCR/HTR output (transcripten)
     - Impliceert bestaan van logische structuur in bronnen --> hoe doe je dit bij bijvoorbeeld gevarieerde collecties egodocumenten?
@@ -83,7 +83,7 @@ Document genres:
 - indexen/registers
 - gedrukt versus handgeschreven
 
-## Vragen
+### Vragen
 
 - Is het wenselijk een procedure op te zetten om onderling eenvoudig HTR-modellen of Ground Truth te kunnen delen?
     - Gebruik 'standaarden' om data te delen?
@@ -97,7 +97,7 @@ Document genres:
         - Visuele kenmerken, logo's, handtekeningen, plaatjes, etc.
         - NER
 
-## Inventarisatie gedeelde interesses (reservelijst van onderwerpen)
+### Inventarisatie gedeelde interesses (reservelijst van onderwerpen)
 
 - Toegankelijkheid materiaal in digitaal formaat versus/en/of gebruik in (digitaal) onderzoek
 - Document resolution (in gevarieerde collecties) / autoencoder
@@ -117,7 +117,7 @@ Document genres:
 
 - NER en verwante technieken voor automatische metadatageneratie
 
-## Agenda volgende bijeenkomst
+### Agenda volgende bijeenkomst
 - AVG en andere eventueel beperkende wetgeving en hoe daarmee om te gaan.
     - e.g. ground truth delen (geldt vooral voor 20ste eeuw)
     - NA werkt cases uit in de context van Oorlog voor de rechter

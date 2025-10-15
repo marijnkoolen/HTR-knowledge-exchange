@@ -10,13 +10,14 @@ title = 'HTR Kennisuitwisseling 11 januari 2023'
 
 De tweede bijeenkomst op 11 januari 2023
 
-## Bijeenkomst
+### Bijeenkomst
 
 Datum: 11 januari 2023
 Tijd: 11:30-13:30
 Locatie: NIOD, vergaderzaal, Herengracht 380, Amsterdam
 
-## Presentaties
+### Agenda
+
 - Rick Companje - persoonskaarten CBG
 - Ismee - Nansen-project
 
@@ -24,7 +25,7 @@ Locatie: NIOD, vergaderzaal, Herengracht 380, Amsterdam
 
 **Aanwezig**
 
-## Aanwezig/uitgenodigd
+### Aanwezig
 
 - Arno Bosse (HuC DI - Globalise)
 - Rick Companje (Utrechts Archief)
@@ -40,17 +41,8 @@ Locatie: NIOD, vergaderzaal, Herengracht 380, Amsterdam
 - Heleen Wilbrink (Utrechts Archief)
 - Leon van Wissen (UvA)
 
-Afwezig:
-- Mirjam Cuper (KB)
-- Carlijn Keijzer (NIOD)
-- Rutger van Koert (HuC)
-- Annelies van Nispen (NIOD)
-- Martijn Maas (HuC DI - Team Images)
-- Pauline van den Heuvel (Stadsarchief Amsterdam)
 
-
-
-## Agenda
+### Agenda
 
 - Projectpresentaties en Q&A 11:30 - 12:15
     - Rick Companje - persoonskaarten CBG (OCR in Mac OS) (15 min.)
@@ -69,7 +61,7 @@ Afwezig:
     - Idenficeren aanknopingspunten concrete (toekomstige) samenwerkingsprojecten
 
 
-## Notities
+### Notities
 
 - Persoonskaarten CBG (Rick Companje)
     - focus op vier velden: voornaam, achternaam, geboortedatum, geboorteplaats
@@ -97,7 +89,7 @@ Afwezig:
 
 
 
-## Discussiepunten
+### Discussiepunten
 
 
 - Splits tips, tricks en technieken voor:
