@@ -2,7 +2,7 @@ title = "HTR Knowledge Exchange / Kennisuitwisseling"
 # baseURL = "https://marijnkoolen.github.io/HTR-Knowledge-Exchange"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "resources"
 publishDir = "docs"
 baseURL = "https://marijnkoolen.github.io/HTR-knowledge-exchange/"
 

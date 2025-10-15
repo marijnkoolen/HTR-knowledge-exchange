@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on HTR Kennisuitwisseling</title>
+    <link>https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/</link>
+    <description>Recent content in Meetings on HTR Kennisuitwisseling</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

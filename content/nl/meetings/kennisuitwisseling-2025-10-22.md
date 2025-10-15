@@ -20,6 +20,8 @@ Automatische handschriftherkenning (HTR/ATR) is in een paar jaar tijd een onmisb
 
 Deze workshop biedt erfgoedprofessionals en historisch onderzoekers een introductie in de mogelijkheden van automatische tekstherkenning voor handgeschreven en moeilijk leesbare documenten. We behandelen de hele keten van het voorbereiden van het materiaal tot het evalueren en het (her)gebruiken van de herkende output. De nadruk ligt op inzicht in de onderliggende processen en terminologie, met aandacht voor praktische toepassingen, beperkingen en standaarden. Zo gaan we aan de slag met de open source HTR-tool Loghi, ontwikkeld door het KNAW Humanities Cluster.
 
+<!--more-->
+
 - Deelnemers nemen zelf een **laptop en materiaal** (3-5 scans) mee om in een hands-on sessie te verkennen wat wel en niet werkt.
 - Enige ervaring met het werken vanuit de **command line** is een pre.
 - Niet noodzakelijk, wel handig om alvast eens naar te kijken: **het downloaden van Loghi**, zie: https://github.com/knaw-huc/loghi
@@ -28,6 +30,4 @@ De bijeenkomst vindt plaats op 22 oktober 2025 van 14:00 tot 17:00 in het UvA Hu
 
 Mochten er ATR-gerelateerde zaken zijn waar je tijdens de bijeenkomst aandacht aan zou willen besteden, laat het ons z.s.m. weten, dan houden wij daar waar mogelijk rekening mee.
 
-
-<!--more-->
 

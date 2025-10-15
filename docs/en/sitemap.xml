@@ -2,19 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/about/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/</loc>
+    <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/about/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/about/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/"
                 />
+  </url><url>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/categories/</loc>
     <changefreq>monthly</changefreq>
@@ -28,20 +33,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/categories/"
-                />
-  </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/"
                 />
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/meetings/</loc>
@@ -61,16 +52,6 @@
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/resources/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/resources/"
-                />
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/tags/</loc>
     <changefreq>monthly</changefreq>

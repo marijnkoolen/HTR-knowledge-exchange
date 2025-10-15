@@ -18,6 +18,7 @@
                 />
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/</loc>
+    <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,6 +31,10 @@
                 hreflang="nl"
                 href="https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/"
                 />
+  </url><url>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/bijeenkomsten/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/</loc>
     <changefreq>monthly</changefreq>
@@ -45,33 +50,13 @@
                 href="https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/"
                 />
   </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/about/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/over/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/about/"
-                />
   </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/bronnen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/resources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/"
-                />
   </url><url>
     <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/tags/</loc>
     <changefreq>monthly</changefreq>
