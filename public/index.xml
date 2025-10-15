@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTR Kennisuitwisseling</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on HTR Kennisuitwisseling</description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <lastBuildDate>Wed, 15 Oct 2025 13:07:34 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-On ATR Workshop - 22 Oktober 2025</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2025-10-22/</link>
+      <pubDate>Wed, 15 Oct 2025 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2025-10-22/</guid>
+      <description>&lt;h4 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Datum: 22 oktober 2025&lt;/li&gt;&#xA;&lt;li&gt;Tijd: 14:00-17:00&lt;/li&gt;&#xA;&lt;li&gt;Locatie: UvA Humanities Lab in het Bushuis, Kloveniersburgwal 48, 1012 CE Amsterdam.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hands-on workshop ATR: basisprincipes voor erfgoed en onderzoek&#xA;Automatische handschriftherkenning (HTR/ATR) is in een paar jaar tijd een onmisbare tool geworden voor veel historisch onderzoekers en archiefprofessionals. Maar hoe ga je er nu echt zelf mee aan de slag?&lt;/p&gt;&#xA;&lt;p&gt;Deze workshop biedt erfgoedprofessionals en historisch onderzoekers een introductie in de mogelijkheden van automatische tekstherkenning voor handgeschreven en moeilijk leesbare documenten. We behandelen de hele keten van het voorbereiden van het materiaal tot het evalueren en het (her)gebruiken van de herkende output. De nadruk ligt op inzicht in de onderliggende processen en terminologie, met aandacht voor praktische toepassingen, beperkingen en standaarden. Zo gaan we aan de slag met de open source HTR-tool Loghi, ontwikkeld door het KNAW Humanities Cluster.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deelnemers nemen zelf een &lt;strong&gt;laptop en materiaal&lt;/strong&gt; (3-5 scans) mee om in een hands-on sessie te verkennen wat wel en niet werkt.&lt;/li&gt;&#xA;&lt;li&gt;Enige ervaring met het werken vanuit de &lt;strong&gt;command line&lt;/strong&gt; is een pre.&lt;/li&gt;&#xA;&lt;li&gt;Niet noodzakelijk, wel handig om alvast eens naar te kijken: &lt;strong&gt;het downloaden van Loghi&lt;/strong&gt;, zie: &lt;a href=&#34;https://github.com/knaw-huc/loghi&#34;&gt;https://github.com/knaw-huc/loghi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;De bijeenkomst vindt plaats op 22 oktober 2025 van 14:00 tot 17:00 in het UvA Humanities Lab in het Bushuis, Kloveniersburgwal 48, 1012 CE Amsterdam.&lt;/p&gt;&#xA;&lt;p&gt;Mochten er ATR-gerelateerde zaken zijn waar je tijdens de bijeenkomst aandacht aan zou willen besteden, laat het ons z.s.m. weten, dan houden wij daar waar mogelijk rekening mee.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTR Kennisuitwisseling 16 januari 2024</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2024-01-16/</link>
+      <pubDate>Thu, 18 Jan 2024 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2024-01-16/</guid>
+      <description>&lt;p&gt;De vijfde bijeenkomst op 16 januari 2024&lt;/p&gt;&#xA;&lt;h4 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Datum: 16 januari 2024&lt;/li&gt;&#xA;&lt;li&gt;Tijd: 13:00-15:00&lt;/li&gt;&#xA;&lt;li&gt;Locatie: Huygens Instituut, Spinhuis, Oudezijds Achterburgwal 185, Amsterdam&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;presentaties&#34;&gt;Presentaties&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gijs Hoekstra en Milan van Lange: Wensen en uitdagingen in het project &amp;ldquo;De Nederlandse Spoorwegen in oorlogstijd&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Marijn Koolen: REPUBLIC pipeline&lt;/li&gt;&#xA;&lt;li&gt;Niek Verhoeff (online): Korte update NER bij het Stadsarchief&lt;/li&gt;&#xA;&lt;li&gt;Erik Tjong Kim Sang: HTR en formulieren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HTR Kennisuitwisseling 24 oktober 2023</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2023-10-24/</link>
+      <pubDate>Tue, 31 Oct 2023 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2023-10-24/</guid>
+      <description>&lt;p&gt;De vierde bijeenkomst op 24 okbtober 2023&lt;/p&gt;&#xA;&lt;h2 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h2&gt;&#xA;&lt;p&gt;Datum: 24 oktober 2023&#xA;Tijd: 11:00-13:00&#xA;Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam&lt;/p&gt;&#xA;&lt;h2 id=&#34;presentaties&#34;&gt;Presentaties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rutger van Koert &amp;amp; Stefan Klut - Loghi&lt;/li&gt;&#xA;&lt;li&gt;Carsten Schnober - HTR Quality&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HTR Kennisuitwisseling 15 maart 2023</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2023-03-15/</link>
+      <pubDate>Sun, 19 Mar 2023 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2023-03-15/</guid>
+      <description>&lt;p&gt;De derde bijeenkomst op 15 maart 2023&lt;/p&gt;&#xA;&lt;h2 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h2&gt;&#xA;&lt;p&gt;Datum: 15 maart 2023&#xA;Tijd: 13:00-15:00&#xA;Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam&lt;/p&gt;&#xA;&lt;h2 id=&#34;presentaties&#34;&gt;Presentaties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gerhard de Kok - toepassing van PageXML tools op Notariële akten&lt;/li&gt;&#xA;&lt;li&gt;Marijn Koolen - PageXML Tools en inventarisatie van taken op PageXML data&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HTR Kennisuitwisseling 11 januari 2023</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2023-01-11/</link>
+      <pubDate>Fri, 13 Jan 2023 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2023-01-11/</guid>
+      <description>&lt;p&gt;De tweede bijeenkomst op 11 januari 2023&lt;/p&gt;&#xA;&lt;h2 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h2&gt;&#xA;&lt;p&gt;Datum: 11 januari 2023&#xA;Tijd: 11:30-13:30&#xA;Locatie: NIOD, vergaderzaal, Herengracht 380, Amsterdam&lt;/p&gt;&#xA;&lt;h2 id=&#34;presentaties&#34;&gt;Presentaties&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rick Companje - persoonskaarten CBG&lt;/li&gt;&#xA;&lt;li&gt;Ismee - Nansen-project&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HTR Kennisuitwisseling 16 november 2022</title>
+      <link>//localhost:1313/meetings/kennisuitwisseling-2022-11-16/</link>
+      <pubDate>Thu, 17 Nov 2022 13:07:34 +0200</pubDate>
+      <guid>//localhost:1313/meetings/kennisuitwisseling-2022-11-16/</guid>
+      <description>&lt;p&gt;De eerste bijeenkomst op 16 november 2022&lt;/p&gt;&#xA;&lt;h2 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h2&gt;&#xA;&lt;p&gt;Datum: 16 november 2022&#xA;Tijd: 13:00-15:00&#xA;Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam&lt;/p&gt;&#xA;&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;kennismaking&lt;/li&gt;&#xA;&lt;li&gt;intro&lt;/li&gt;&#xA;&lt;li&gt;discussie&lt;/li&gt;&#xA;&lt;li&gt;hoe verder?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bijeenkomsten</title>
+      <link>//localhost:1313/meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/meetings/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2025-10-22/&#34;&gt;22 oktober 2025&lt;/a&gt; Hands-On ATR Workshop: Loghi, Pagexml-Tools&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2024-01-16/&#34;&gt;16 januari 2024&lt;/a&gt; Spellingsvariatie en Named Entities&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2023-10-24/&#34;&gt;24 oktober 2023&lt;/a&gt; Loghi, OCR/HTR kwaliteit&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2023-03-15/&#34;&gt;15 maart 2023&lt;/a&gt; Werken met PageXML, PageXML taken en tools&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2023-01-11/&#34;&gt;11 januari 2023&lt;/a&gt; Persoonskaarten, Nansen-project&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/meetings/kennisuitwisseling-2022-11-16/&#34;&gt;16 november 2022&lt;/a&gt; structureren &amp;amp; classificeren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Over de ATR Kennisuitwisseling</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verzamelen van kennis over verschillende aspecten van het digitaliseren, organiseren en analyseren van grote historische bronnencomplexen. E.g. HTR en OCR, documentclassificatie, layoutherkenning en het gebruik van metadata om deze processen te verbeteren. Deze bijeenkomsten zijn een initiatief van Marijn Koolen (Huygens Instituut) en Milan van Lange (NIOD).&lt;/p&gt;&#xA;&lt;p&gt;Deze repository dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>//localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/resources/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://htrhub.dekok.xyz/about&#34;&gt;HTR-Hub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
