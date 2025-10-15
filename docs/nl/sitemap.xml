@@ -2,74 +2,164 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/</loc>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2025-10-22/</loc>
     <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2025-10-22/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2025-10-22/"
                 />
   </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/</loc>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/</loc>
     <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/meetings/"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/"
+                href="http://localhost:1313/HTR-knowledge-exchange/"
                 />
   </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/bijeenkomsten/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/</loc>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/</loc>
+    <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/categories/"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/"
                 />
   </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/over/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/bronnen/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/tags/</loc>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-01-16/</loc>
+    <lastmod>2024-01-18T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/tags/"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2024-01-16/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/tags/"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-01-16/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-10-24/</loc>
+    <lastmod>2023-10-31T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2023-10-24/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-10-24/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-03-15/</loc>
+    <lastmod>2023-03-19T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2023-03-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-03-15/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-01-11/</loc>
+    <lastmod>2023-01-13T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2023-01-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-01-11/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2022-11-16/</loc>
+    <lastmod>2022-11-17T13:07:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/meetings/kennisuitwisseling-2022-11-16/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2022-11-16/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/bijeenkomsten/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/over/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/bronnen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/tags/"
                 />
   </url>
 </urlset>
