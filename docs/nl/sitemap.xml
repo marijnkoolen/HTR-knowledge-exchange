@@ -57,6 +57,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/HTR-knowledge-exchange/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/HTR-knowledge-exchange/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/HTR-knowledge-exchange/about/"
+                />
+  </url><url>
     <loc>http://localhost:1313/HTR-knowledge-exchange/meetings/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -83,20 +97,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="http://localhost:1313/HTR-knowledge-exchange/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/HTR-knowledge-exchange/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/HTR-knowledge-exchange/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/HTR-knowledge-exchange/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/HTR-knowledge-exchange/resources/</loc>

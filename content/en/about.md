@@ -1,6 +1,6 @@
 +++
 menus = ['main', 'footer']
-title = 'About the ATR Knowledge Exchange'
+title = 'About'
 +++
 
 

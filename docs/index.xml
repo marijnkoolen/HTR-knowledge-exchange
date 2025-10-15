@@ -65,18 +65,18 @@
       <description>&lt;p&gt;De eerste bijeenkomst op 16 november 2022&lt;/p&gt;&#xA;&lt;h3 id=&#34;bijeenkomst&#34;&gt;Bijeenkomst&lt;/h3&gt;&#xA;&lt;p&gt;Datum: 16 november 2022&#xA;Tijd: 13:00-15:00&#xA;Locatie: Spinhuis zaal 2.18, Oudezijds Achterburgwal 185, Amsterdam&lt;/p&gt;&#xA;&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;kennismaking&lt;/li&gt;&#xA;&lt;li&gt;intro&lt;/li&gt;&#xA;&lt;li&gt;discussie&lt;/li&gt;&#xA;&lt;li&gt;hoe verder?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Achtergrond</title>
+      <link>http://localhost:1313/HTR-knowledge-exchange/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HTR-knowledge-exchange/about/</guid>
+      <description>&lt;p&gt;De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verzamelen van kennis over verschillende aspecten van het digitaliseren, organiseren en analyseren van grote historische bronnencomplexen. E.g. HTR en OCR, documentclassificatie, layoutherkenning en het gebruik van metadata om deze processen te verbeteren. Deze bijeenkomsten zijn een initiatief van Marijn Koolen (Huygens Instituut) en Milan van Lange (NIOD).&lt;/p&gt;&#xA;&lt;p&gt;Deze repository dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bijeenkomsten</title>
       <link>http://localhost:1313/HTR-knowledge-exchange/meetings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/HTR-knowledge-exchange/meetings/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2025-10-22/&#34;&gt;22 oktober 2025&lt;/a&gt; Hands-On ATR Workshop: Loghi, Pagexml-Tools&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-09-17/&#34;&gt;17 september 2024&lt;/a&gt; Hoe word ik wegwijs in ATR?&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-04-02/&#34;&gt;2 april 2024&lt;/a&gt; Evaluatie, HTR projecten, ronde tafel&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2024-01-16/&#34;&gt;16 januari 2024&lt;/a&gt; Spellingsvariatie en Named Entities&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-10-24/&#34;&gt;24 oktober 2023&lt;/a&gt; Loghi, OCR/HTR kwaliteit&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-03-15/&#34;&gt;15 maart 2023&lt;/a&gt; Werken met PageXML, PageXML taken en tools&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2023-01-11/&#34;&gt;11 januari 2023&lt;/a&gt; Persoonskaarten, Nansen-project&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/HTR-knowledge-exchange/meetings/kennisuitwisseling-2022-11-16/&#34;&gt;16 november 2022&lt;/a&gt; structureren &amp;amp; classificeren&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Over de ATR Kennisuitwisseling</title>
-      <link>http://localhost:1313/HTR-knowledge-exchange/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/HTR-knowledge-exchange/about/</guid>
-      <description>&lt;p&gt;De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verzamelen van kennis over verschillende aspecten van het digitaliseren, organiseren en analyseren van grote historische bronnencomplexen. E.g. HTR en OCR, documentclassificatie, layoutherkenning en het gebruik van metadata om deze processen te verbeteren. Deze bijeenkomsten zijn een initiatief van Marijn Koolen (Huygens Instituut) en Milan van Lange (NIOD).&lt;/p&gt;&#xA;&lt;p&gt;Deze repository dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
