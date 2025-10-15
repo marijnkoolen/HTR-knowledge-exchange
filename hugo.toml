@@ -1,8 +1,9 @@
 title = "HTR Knowledge Exchange / Kennisuitwisseling"
 # baseURL = "https://marijnkoolen.github.io/HTR-Knowledge-Exchange"
 languageCode = "en-us"
-theme = ["ananke"]
+theme = "ananke"
 resourceDir = "../resources"
+publishDir = "docs"
 
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
