@@ -8,4 +8,5 @@ The HTR knowledge exchange meetings aim to share and gather knowledge about vari
 
 This repository serves as a collection point for tips and tricks, useful links, discussion topics, and questions.
 
-[Meeting notes](../../meetings/) are mostly in Dutch.
+- [Meeting notes](../../meetings/) are mostly in Dutch.
+- [Overview of relevant resources](resources/)

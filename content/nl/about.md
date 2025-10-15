@@ -7,5 +7,5 @@ De HTR kennisuitwisseling bijeenkomsten hebben als doel het uitwisselen en verza
 
 Deze repository dient als verzamelplek van tips en trucks, nuttige links en discussiepunten en vragen.
 
-- [Overzicht van notulen van de bijeenkomsten](meetings/)
-- [Overzicht van relevante resources](./resources/)
+- [Overzicht van de bijeenkomsten](meetings/)
+- [Overzicht van relevante resources](resources/)
