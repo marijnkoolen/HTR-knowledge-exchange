@@ -4,7 +4,7 @@ title = 'Bijeenkomsten'
 +++
 
 - [22 oktober 2025](meetings/kennisuitwisseling-2025-10-22.md) Hands-On ATR Workshop: Loghi, Pagexml-Tools
-- [17 septembrer 2024](meetings/kennisuitwisseling-2024-09-17.md) Hoe word ik wegwijs in ATR?
+- [17 september 2024](meetings/kennisuitwisseling-2024-09-17.md) Hoe word ik wegwijs in ATR?
 - [2 april 2024](meetings/kennisuitwisseling-2024-04-02.md) Evaluatie, HTR projecten, ronde tafel
 - [16 januari 2024](meetings/kennisuitwisseling-2024-01-16.md) Spellingsvariatie en Named Entities
 - [24 oktober 2023](meetings/kennisuitwisseling-2023-10-24.md) Loghi, OCR/HTR kwaliteit
