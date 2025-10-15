@@ -4,6 +4,7 @@ languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
 publishDir = "docs"
+baseURL = "https://marijnkoolen.github.io/HTR-knowledge-exchange/"
 
 DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"

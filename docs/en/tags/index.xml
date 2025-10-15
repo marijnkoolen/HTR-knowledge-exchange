@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HTR Knowledge Exchange</title>
-    <link>/en/tags/</link>
+    <link>https://marijnkoolen.github.io/HTR-knowledge-exchange/en/tags/</link>
     <description>Recent content in Tags on HTR Knowledge Exchange</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

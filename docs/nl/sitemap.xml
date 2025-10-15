@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/</loc>
     <lastmod>2025-10-15T13:07:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/"
                 />
   </url><url>
-    <loc>/meetings/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/meetings/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/meetings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/meetings/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/meetings/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/categories/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/categories/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/about/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/about/"
                 />
   </url><url>
-    <loc>/resources/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/resources/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/resources/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/resources/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://marijnkoolen.github.io/HTR-knowledge-exchange/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="/tags/"
+                href="https://marijnkoolen.github.io/HTR-knowledge-exchange/tags/"
                 />
   </url>
 </urlset>
