@@ -3,9 +3,9 @@ date = '2023-10-31T13:07:34+02:00'
 draft = true
 title = 'HTR Kennisuitwisseling 24 oktober 2023'
 [menus]
-[menus.main]
-parent = 'Bijeenkomsten'
-weight = 20
+  [menus.main]
+    parent = 'Bijeenkomsten'
+    weight = 20
 +++
 
 De vierde bijeenkomst op 24 okbtober 2023

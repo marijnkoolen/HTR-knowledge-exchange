@@ -1,11 +1,11 @@
 +++
 date = '2024-01-18T13:07:34+02:00'
-draft = true
+draft = false
 title = 'HTR Kennisuitwisseling 16 januari 2024'
 [menus]
-[menus.main]
-parent = 'Bijeenkomsten'
-weight = 20
+  [menus.main]
+    parent = 'Bijeenkomsten'
+    weight = 20
 +++
 
 De vijfde bijeenkomst op 16 januari 2024

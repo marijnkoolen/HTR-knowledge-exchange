@@ -4,8 +4,8 @@ draft = true
 title = 'HTR Kennisuitwisseling 15 maart 2023'
 [menus]
   [menus.main]
-  parent = 'Bijeenkomsten'
-  weight = 20
+    parent = 'Bijeenkomsten'
+    weight = 20
 +++
 
 De derde bijeenkomst op 15 maart 2023

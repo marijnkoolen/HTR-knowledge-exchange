@@ -1,6 +1,6 @@
 +++
 date = '2025-10-15T13:07:34+02:00'
-draft = true
+draft = false
 title = 'Hands-On ATR Workshop - 22 Oktober 2025'
 [menus]
   [menus.main]
